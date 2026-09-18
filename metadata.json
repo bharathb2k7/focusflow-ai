@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow AI",
+  "description": "Intelligent AI productivity operating system that analyzes tasks, prioritizes daily schedules, detects delays, and dynamically replans your day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
